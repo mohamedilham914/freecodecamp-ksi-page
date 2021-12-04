@@ -1,2 +1,5 @@
-# freecodecamp-ksi-page
-freecodecamp - Build a Tribute Page
+This is a KSI page.
+
+It makes up the first part of my coding portfolio.
+
+Enjoy!
